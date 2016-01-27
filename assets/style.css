@@ -304,7 +304,7 @@
             background-attachment: fixed !important;
             background-position: center center !important;
             background-size: cover !important;
-            background-image: url("http://themeforest.unitedthemes.com/wpversions/brooklyn/demo9/wp-content/uploads/2014/04/contact1.jpg");
+            background-image: url("contact1.jpg");
         }
         #contact-section .parallax-title {
             font-family: Oswald, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -597,7 +597,7 @@
         .our-service.parallax-section {
             background-repeat: !important;
             background-size: !important;
-            background-image: url("http://themeforest.unitedthemes.com/wpversions/brooklyn/demo9/wp-content/uploads/2013/10/service-bg.jpg");
+            background-image: url("service-bg.jpg");
         }
         .our-service {
             background-color: ;
@@ -1453,7 +1453,6 @@ embed, iframe, object {
 }
 .pt-style-1 .parallax-title {
 	background-attachment: scroll;
-	background-image: url('images/divider.png');
 	background-repeat: repeat-x;
 	background-position: top center;
 	padding-top:20px;
@@ -1461,7 +1460,6 @@ embed, iframe, object {
 }
 .pt-style-1 .page-title, .pt-style-1 .section-title {
 	background-attachment: scroll;
-	background-image: url('images/divider.png');
 	background-repeat: repeat-x;
 	background-position: center center;
 }
@@ -1732,7 +1730,7 @@ a.ut-flex-control.next:hover { background:rgba(255, 255, 255, 0.15); color:#FFFF
 }
 .ut-hero-style-1 .hero-title {
 	background-attachment: scroll;
-	background-image: url('images/divider.png');
+	background-image: url('divider.png');
 	background-repeat: repeat-x;
 	background-position: top center;
 	padding-top:14px;
